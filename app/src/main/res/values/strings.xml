@@ -10,4 +10,13 @@
     <string name="_8">8</string>
     <string name="_9">9</string>
     <string name="_0">0</string>
+    <string name="A">-</string>
+    <string name="B">*</string>
+    <string name="C">C</string>
+    <string name="D">/</string>
+    <string name="E">=</string>
+    <string name="F">,</string>
+    <string name="G">+</string>
+
+
 </resources>
